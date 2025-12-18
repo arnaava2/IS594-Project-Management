@@ -1,0 +1,3 @@
+# In-Class Lecture Notes
+
+This folder contains weekly lecture notes for IS 594, maintained throughout the semester.
