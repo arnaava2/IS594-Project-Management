@@ -1,17 +1,18 @@
-# IS594-Project-Management
+# Repository Creation and Maintenance – IS 594
 
-# IS594 Repository – Repository Creation & Maintenance
+This repository documents my in-class examples, project work,
+and learning artifacts developed throughout the IS 594 course.
+It is structured to reflect project workflows, incremental progress,
+and documentation practices discussed in class.
 
-This repository documents my in-class examples, project progress,
-and learning artifacts throughout the IS594 course.
+## Repository Contents
+- in-class-examples/: Weekly lecture examples and notes
+- project-work/: Planning, mid-point, and final project artifacts
+- reflections/: Reflections on repository usage and maintenance
+- resources/: Supporting materials and references
 
-## Repository Structure
-- in-class-examples/: Weekly lecture and activity examples
-- project-work/: Planning, mid-point, and final project materials
-- reflections/: Personal reflections on repository usage and maintenance
-- resources/: Reference materials and supporting documents
-
-## Tools Used
-- GitHub Issues & Projects
-- README documentation
-- Version control through commits
+## GitHub Features Used
+- README documentation for project overview
+- Issues for task-level work tracking
+- Projects (Kanban board) for workflow visualization
+- Regular commits to reflect ongoing maintenance
