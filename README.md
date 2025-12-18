@@ -6,7 +6,7 @@ It is structured to reflect project workflows, incremental progress,
 and documentation practices discussed in class.
 
 ## Repository Contents
-- in-class-examples/: Weekly lecture examples and notes
+- Lecture Notes/: Weekly lecture examples and notes
 - project-work/: Planning, mid-point, and final project artifacts
 - reflections/: Reflections on repository usage and maintenance
 - resources/: Supporting materials and references
